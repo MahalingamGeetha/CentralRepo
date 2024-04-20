@@ -11,3 +11,7 @@ set -x
 echo "To List the Process"
 ps -ef
 echo "First Command From Europe"
+
+#To List the CPU
+echo "Number of CPU's"
+nproc
