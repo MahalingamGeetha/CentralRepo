@@ -15,3 +15,6 @@ echo "First Command From Europe"
 #To List the CPU
 echo "Number of CPU's"
 nproc
+
+#Command From Paris Git
+echo "Command Line From Paris Git"
